@@ -4,6 +4,8 @@ Data Scientist – Sharlmagne Henry
 
 General objective – Use Spotify’s data to determine if there are any quantifiable differences among Jamaican music and determine the subgenres/subcategories using unsupervised learning.
 
+
+
 Methodology
 Data Collection – Spotify API and python.
 

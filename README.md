@@ -2,10 +2,10 @@
 Data Science Project  - Genre Categorization for Jamaican Music (Spotify Data Analysis)
 
 Data Scientist – Sharlmagne Henry
-<br>
+##
 
 General objective – Use Spotify’s data to determine if there are any quantifiable differences among Jamaican music and determine the subgenres/subcategories using unsupervised learning.
-<br>
+##
 
 Methodology
 Data Collection – Spotify API and python.

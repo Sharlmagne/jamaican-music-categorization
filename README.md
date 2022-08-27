@@ -6,6 +6,9 @@ General objective – Use Spotify’s data to determine if there are any quantif
 
 Methodology
 Data Collection – Spotify API and python.
+
 Exploratory data analysis (EDA) & Data wrangling – initial data analysis in tandem with data wrangling using Pandas and Seaborn libraries
+
 Modelling – K-Means clustering to classify data based on their similarities in metrics
+
 Statistical data analysis – Detailed analysis to determine the characteristics of each cluster and make assumptions based on the characteristics defined in the descriptive analysis.
